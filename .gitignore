@@ -1,0 +1,16 @@
+# Build artifacts
+bin/
+
+# Editor specific files
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db 
